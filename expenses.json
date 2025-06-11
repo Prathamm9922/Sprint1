@@ -1,0 +1,23 @@
+[
+    {
+        "id": 1,
+        "amount": 2000.0,
+        "category": "Food",
+        "description": "grocery",
+        "date": "2025-03-27"
+    },
+    {
+        "id": 2,
+        "amount": 4000.0,
+        "category": "Transportation",
+        "description": "metro",
+        "date": "2025-03-28"
+    },
+    {
+        "id": 3,
+        "amount": 15000.0,
+        "category": "Healthcare",
+        "description": "medicine",
+        "date": "2025-03-21"
+    }
+]
